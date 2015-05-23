@@ -125,7 +125,7 @@
     }
   ],
   "variables": {
-    "chef_version": "provisionerless",
+    "chef_version": "insight-nobiosdevname",
     "mirror": "http://mirrors.kernel.org/centos"
   }
 }
